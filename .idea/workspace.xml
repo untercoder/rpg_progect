@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc555163-ace2-4447-8ff7-a40ad03b3888" name="Default Changelist" comment="" />
+    <list default="true" id="bc555163-ace2-4447-8ff7-a40ad03b3888" name="Default Changelist" comment="Create project commit:&#10;Config:&#10;Laravel 8&#10;React&#10;MySQl&#10;PHP 7.4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,8 +159,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616085821799</updated>
-      <workItem from="1616085828264" duration="612000" />
+      <workItem from="1616085828264" duration="995000" />
     </task>
+    <task id="LOCAL-00001" summary="Create project commit:&#10;Config:&#10;Laravel 8&#10;React&#10;MySQl&#10;PHP 7.4">
+      <created>1616086845423</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616086845423</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,5 +219,9 @@
         <entry key="1" value="TOOL_WINDOW" />
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create project commit:&#10;Config:&#10;Laravel 8&#10;React&#10;MySQl&#10;PHP 7.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create project commit:&#10;Config:&#10;Laravel 8&#10;React&#10;MySQl&#10;PHP 7.4" />
   </component>
 </project>

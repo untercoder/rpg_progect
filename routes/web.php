@@ -16,3 +16,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('git', function () {
+    return "<h1>Все четко git работает!</h1>";
+});
