@@ -17,6 +17,10 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('git', function () {
-    return "<h1>Все четко git работает!</h1>";
+Route::get('sqrt/{num}', function ($num) {
+    return "<h1>".sqrt($num)."</h1>";
+});
+
+Route::get('test', function () {
+   return view('test');
 });
